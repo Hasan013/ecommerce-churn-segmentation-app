@@ -7,7 +7,7 @@ A powerful Streamlit app to analyze e-commerce customer behavior, **predict chur
 ---
 
 ## 📸 App Preview  
-![App Preview](./preview.png)  
+![App Preview](https://github.com/Hasan013/ecommerce-churn-segmentation-app/blob/main/app_preview.gif)  
 A visual walkthrough of customer churn prediction, segmentation and retention strategies, all in one place.
 
 ---
