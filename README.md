@@ -131,6 +131,5 @@ If you are handling **churn, retention** or **LTV**, this app will help you turn
 
 Want this customized for your store, agency or product?  
 
-📬 **Let’s talk** → [hraza9327@gmail.com](mailto:hraza9327@gmail.com) 
-
+📬 **Let’s talk** → [hraza9327@gmail.com](mailto:hraza9327@gmail.com)  
 🔗 **Let's connect on** → [LinkedIn](https://www.linkedin.com/in/hasan-raja-khan)
